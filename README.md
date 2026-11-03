@@ -13,12 +13,8 @@ O aumento exponencial da disponibilidade de dados em repositórios públicos tem
 
 Este projeto integra quatro conjuntos de dados independentes (**GSE33000, GSE26927, GSE29378 e GSE37263**), disponibilizando uma base de dados unificada, limpa e pronta para análises computacionais[cite: 1].
 
-## 📂 Estrutura do Repositório
-📦 [Integracao-Dados-Alzheimer](./)   
- 
-  ┗ 🖼️ [Fluxograma.png](./Imagens/Fluxograma.png)  
- 
-  📄 [README.md](./README.md)
+## 📂 Matriz Integrada
+  📄 https://drive.google.com/file/d/1fgTVmUaIKqc6U7y-2dD7pws__175sJoj/view?usp=sharing
 
 ## 🔄 Fluxo Metodológico (Pipeline)
 
