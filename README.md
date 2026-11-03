@@ -6,12 +6,13 @@
 </p>
 
 > [!IMPORTANT]
-> Este repositório contém o pipeline automatizado e reprodutível de engenharia de dados em Python para a filtragem, normalização, padronização e integração de dados de expressão gênica multi-estudo da Doença de Alzheimer[cite: 1].
+> Este repositório contém o pipeline automatizado e reprodutível de engenharia de dados em Python para a filtragem, normalização, padronização e integração de dados de expressão gênica multi-estudo da Doença de Alzheimer.
 
 ## 🧠 Sobre o Projeto
-O aumento exponencial da disponibilidade de dados em repositórios públicos tem motivado investigações sobre doenças complexas como a Doença de Alzheimer[cite: 1]. Contudo, diferenças nos formatos, na estrutura e na qualidade dos dados transcriptômicos obtidos por diferentes plataformas experimentais inviabilizam sua integração direta[cite: 1]. 
+O aumento exponencial da disponibilidade de dados em repositórios públicos tem motivado investigações sobre doenças complexas como a Doença de Alzheimer.
+Contudo, diferenças nos formatos, na estrutura e na qualidade dos dados transcriptômicos obtidos por diferentes plataformas experimentais inviabilizam sua integração direta. 
 
-Este projeto integra quatro conjuntos de dados independentes (**GSE33000, GSE26927, GSE29378 e GSE37263**), disponibilizando uma base de dados unificada, limpa e pronta para análises computacionais[cite: 1].
+Este projeto integra quatro conjuntos de dados independentes (**GSE33000, GSE26927, GSE29378 e GSE37263**), disponibilizando uma base de dados unificada, limpa e pronta para análises computacionais.
 
 ## 📂 Matriz Integrada
   📄 https://drive.google.com/file/d/1fgTVmUaIKqc6U7y-2dD7pws__175sJoj/view?usp=sharing
@@ -46,14 +47,14 @@ Este projeto integra quatro conjuntos de dados independentes (**GSE33000, GSE269
 </p>
 
 ## 📊 Matriz Integrada e Resultados
-Após o pré-processamento e o tratamento de inconsistências, o processo resultou em uma **matriz de dados íntegra, estruturada e sem dados ausentes**[cite: 2], contendo:
-* **Volume de Amostras:** 460 amostras no total, sendo 277 classificadas como Alzheimer e 183 como controles[cite: 2].
-* **Atributos (Genes):** Intersecção de aproximadamente 12.085 genes comuns[cite: 2].
-* **Padronização:** Expressão gênica normalizada por Z-score individualmente dentro de cada estudo[cite: 2].
-* **Metadados:** Preservação de informações sobre condição clínica, idade, sexo e estudo de origem, permitindo uma comparação justa entre diferentes amostras e regiões anatômicas[cite: 2].
+Após o pré-processamento e o tratamento de inconsistências, o processo resultou em uma **matriz de dados íntegra, estruturada e sem dados ausentes**, contendo:
+* **Volume de Amostras:** 460 amostras no total, sendo 277 classificadas como Alzheimer e 183 como controles.
+* **Atributos (Genes):** Intersecção de aproximadamente 12.085 genes comuns.
+* **Padronização:** Expressão gênica normalizada por Z-score individualmente dentro de cada estudo.
+* **Metadados:** Preservação de informações sobre condição clínica, idade, sexo e estudo de origem, permitindo uma comparação justa entre diferentes amostras e regiões anatômicas.
 
 ## 📌 Palavras-chave
-Doença de Alzheimer | Expressão Gênica | Engenharia de Dados | Bioinformática[cite: 2]
+Doença de Alzheimer | Expressão Gênica | Engenharia de Dados | Bioinformática
 
 ## 👥 Autores
 * **Emily Vitorya de Moura**
