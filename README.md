@@ -14,17 +14,7 @@ O aumento exponencial da disponibilidade de dados em repositórios públicos tem
 Este projeto integra quatro conjuntos de dados independentes (**GSE33000, GSE26927, GSE29378 e GSE37263**), disponibilizando uma base de dados unificada, limpa e pronta para análises computacionais[cite: 1].
 
 ## 📂 Estrutura do Repositório
-📦 [Integracao-Dados-Alzheimer](./)
-
-  📂 [NotebooksCode](./NotebooksCode/)
-  
-  ┗ 📄 [Pipeline_Integracao.ipynb](./NotebooksCode/Pipeline_Integracao.ipynb)  
- 
-  📂 [PythonCode](./PythonCode/)  
- 
-  ┗ 📄 [processamento.py](./PythonCode/processamento.py)
- 
-  📂 [Imagens](./Imagens/)    
+📦 [Integracao-Dados-Alzheimer](./)   
  
   ┗ 🖼️ [Fluxograma.png](./Imagens/Fluxograma.png)  
  
