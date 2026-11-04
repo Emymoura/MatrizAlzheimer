@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=200&width=1000&color=1e3a8a&reversal=false&fontAlignY=20&text=Integração%20Multi-estudo%20Alzheimer&fontSize=54&fontColor=F8F8FF&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&width=1000&color=1e3a8a&reversal=false&fontAlignY=20&text=Integração%20Multi-estudo%20Alzheimer&fontSize=44&fontColor=F8F8FF&animation=fadeIn"
     width="100%"
   />
 </p>
